@@ -1,0 +1,20 @@
+// Design Tokens - Color constants
+export const C = {
+  blue:    "#0D6EFD",
+  blueDark:"#0A58CA",
+  blueLight:"#EBF3FF",
+  yellow:  "#FFC107",
+  yellowLight:"#FFF8E1",
+  green:   "#198754",
+  greenLight:"#E8F5E9",
+  red:     "#DC3545",
+  redLight:"#FDECEA",
+  orange:  "#FD7E14",
+  bg:      "#F0F4FF",
+  white:   "#FFFFFF",
+  card:    "#FFFFFF",
+  border:  "#E2E8F0",
+  text:    "#1A202C",
+  muted:   "#64748B",
+  light:   "#F8FAFC",
+};
